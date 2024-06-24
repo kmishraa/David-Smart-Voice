@@ -25,7 +25,7 @@
 ![AI_FINAL_REPORT 1 pdf-image-008](https://github.com/kmishraa/David-Smart-Voice/assets/104066423/3add6d2c-bf63-4aaf-86f1-99fbcff65cd1)
 ![AI_FINAL_REPORT 1 pdf-image-007](https://github.com/kmishraa/David-Smart-Voice/assets/104066423/8f190774-cf9e-43bc-be92-54c0552b3100)
 ![AI_FINAL_REPORT 1 pdf-image-009](https://github.com/kmishraa/David-Smart-Voice/assets/104066423/0837fff1-bfdd-43ff-b3e5-9471a5e40425)
-![AI_FINAL_REPORT 1 pdf-image-007](https://github.com/kmishraa/David-Smart-Voice/assets/104066423/2e9882ad-6aef-41e2-b23e-b36b6dd4281a)
+
 
 
 
