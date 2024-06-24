@@ -7,7 +7,7 @@
 <h3 align="center">Achieved high accuracy and efficiency, enhancing productivity and convenience.</h3>
 <img align = "right" alt  ="Coding" width= "400" src="
 
-
-
+<img src="![AI_FINAL_REPORT 1 pdf-image-008](https://github.com/kmishraa/David-Smart-Voice/assets/104066423/e883e0e5-2b2a-4dac-96c7-f714773535b3)
+" alt="">
 
 
