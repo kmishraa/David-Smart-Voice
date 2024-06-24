@@ -1,14 +1,31 @@
 # David-Smart-Voice
 
-Developed "David's Command Center," a voice-controlled AI assistant using Python.
-Utilized Speech Recognition API to convert speech to text for executing tasks.
-Implemented features: playing music, web searches, weather updates, reminders, and email.
-Achieved high accuracy and efficiency, enhancing productivity and convenience.
+<h1 align="center">Hi 👋, I'm Khushi Mishra</h1>
+<h3 align="center">A passionate Full Stack developer from India</h3>
+<img align = "right" alt  ="Coding" width= "400" src="
+https://static.vecteezy.com/system/resources/previews/002/326/507/large_2x/smart-speaker-voice-assistant-concept-with-characters-young-people-with-gadgets-near-smartphone-speaker-recognition-voice-controlled-smart-speaker-voice-activated-digital-assistants-identification-vector.jpg
+">
 
-![AI_FINAL_REPORT 1 pdf-image-004](https://github.com/kmishraa/David-Smart-Voice/assets/104066423/4e525cd7-1362-4157-8b3e-e808e4ac2d49)
-![AI_FINAL_REPORT 1 pdf-image-007](https://github.com/kmishraa/David-Smart-Voice/assets/104066423/4e5138a6-5995-4fcb-88e1-1d22ceb1ddc6)
-![Uploading AI_FINAL_REPORT[1].pdf-image-008.png…]()
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kmishraa&label=Profile%20views&color=0e75b6&style=flat" alt="kmishraa" /> </p>
 
+- 🔭 I’m currently working on **David Smart Voice**
+
+- 🌱 I’m currently learning **Python, Machine Learning**
+
+- 📫 How to reach me **khushimishra9466@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmishraa&show_icons=true&locale=en&layout=compact" alt="kmishraa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmishraa&show_icons=true&locale=en" alt="kmishraa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kmishraa&" alt="kmishraa" /></p>
 
 
 
