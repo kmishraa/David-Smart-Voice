@@ -1,7 +1,10 @@
 # David-Smart-Voice
 
 <h1 align="center">David Smart Voice</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">Developed "David's Command Center," a voice-controlled AI assistant using Python.</h3>
+<h3 align="center">Utilized Speech Recognition API to convert speech to text for executing tasks.</h3>
+<h3 align="center">Implemented features: playing music, web searches, weather updates, reminders, and email.</h3>
+<h3 align="center">Achieved high accuracy and efficiency, enhancing productivity and convenience.</h3>
 <img align = "right" alt  ="Coding" width= "400" src="
 https://static.vecteezy.com/system/resources/previews/002/326/507/large_2x/smart-speaker-voice-assistant-concept-with-characters-young-people-with-gadgets-near-smartphone-speaker-recognition-voice-controlled-smart-speaker-voice-activated-digital-assistants-identification-vector.jpg
 ">
